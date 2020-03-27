@@ -45,7 +45,7 @@ let colors = [
     },
     id: 5
   },
-  {
+  { 
     color: "softpink",
     code: {
       hex: "#dd99ba"
